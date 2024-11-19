@@ -3,7 +3,6 @@
 ## Data sources:
 - ESRI Worldview (overlay)
 - AWS Open Data Terrain Tiles (DEM)
-- 
 
 ## Map
 
