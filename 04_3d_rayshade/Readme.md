@@ -7,4 +7,5 @@
 
 ## Map
 
-![](https://github.com/the-Hull/30daymapchallenge_2024/blob/main/01_organic_soil/30daymap_org_soils_germany.png?raw=true)
+![](https://raw.githubusercontent.com/the-Hull/30daymapchallenge_2024/refs/heads/main/04_3d_rayshade/scotland_trip.jpeg)
+
